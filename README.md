@@ -5,7 +5,7 @@ I'm currently working @ **Dextra** as a Software Engineer. I also like stuffs re
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="25" /> I’m currently working on Front-end project;
+- <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="25" /> I’m currently working on Front-end projects;
 - <img src="https://emojis.slackmojis.com/emojis/images/1492722353/2078/looking.gif?1492722353" width="25" /> I’m always looking for learn new things, like back-end technologies;
 - <img src="https://emojis.slackmojis.com/emojis/images/1531847273/4225/blob-beers.gif?1531847273" width="25" />  I’m willing to collaborate on building communities and open source projects;
 - <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="25" /> Ask me about web development and techs related...
