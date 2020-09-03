@@ -3,13 +3,13 @@
 I'm currently working @ **Dextra** as a Software Engineer. I also like stuffs related to design/UX.
 
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently working on Front-end project;
-- 🌱 I’m always looking to learn new things, like back-end technologies;
-- 👯  I’m willing to collaborate on building communities and open source projects;
-- 💬 Ask me about web development and techs related...
-- 📫 How to reach me: mateusmarquezini01@gmail.com
+- <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="20" /> I’m currently working on Front-end project;
+- <img src="https://emojis.slackmojis.com/emojis/images/1492722353/2078/looking.gif?1492722353" width="20" /> I’m always looking to learn new things, like back-end technologies;
+- <img src="https://emojis.slackmojis.com/emojis/images/1531847273/4225/blob-beers.gif?1531847273" width="20" />  I’m willing to collaborate on building communities and open source projects;
+- <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="20" /> Ask me about web development and techs related...
+- <img src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="20" /> How to reach me: mateusmarquezini01@gmail.com
 
 <br>
 <a href="https://www.linkedin.com/in/mateusmarquezini/">
