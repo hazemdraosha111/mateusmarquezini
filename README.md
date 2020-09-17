@@ -1,6 +1,6 @@
 <h2> Hi there, welcome! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="40" /></h2>
 
-I'm currently working @ **Dextra** as a Software Engineer. I also like stuffs related to design/UX.
+I'm currently working @ **CI&T** as a Software Engineer. I also like stuffs related to design/UX.
 
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
