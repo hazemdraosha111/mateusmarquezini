@@ -5,7 +5,7 @@ class About extends Me {
   getCurrentWorkplace() {
     return {
       workplace: {
-        company: 'CI&T',
+        company: 'Bemobi',
         position: 'Software Engineer'         
       }
     }
@@ -13,8 +13,8 @@ class About extends Me {
 
   getDailyKnowledge() {
     return {
-      frontend: 'JavaScript, TypeScript, & React ',
-      backend: 'Node & Java',
+      frontend: 'React',
+      backend: 'Go, Node, and Java',
       additional: 'Docker, AWS, GitHub & Linux'        
     }
   }
