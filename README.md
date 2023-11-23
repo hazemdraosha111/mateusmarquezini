@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">A passionate backend engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmarquezini&label=Profile%20views&color=0e75b6&style=flat" alt="mateusmarquezini" /> </p>
-
 - 👯 I’m looking to collaborate on **open source projects built in Go**
 
 - 📝 Sometimes you may find me writing articles on [dev.to](dev.to)
