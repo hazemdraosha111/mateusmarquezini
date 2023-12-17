@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mateusmarquezini01@gmail.com**
 
-- ⚡ Fun fact **You may also find me volunteering for Spotify, helping users at https://community.spotify.com/**
+- ⚡ Fun fact - **You may also find me volunteering for Spotify, helping users at https://community.spotify.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
