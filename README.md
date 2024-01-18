@@ -3,8 +3,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects built in Go**
 
-- 📝 Sometimes you may find me writing articles on [dev.to](dev.to)
-
 - 📫 How to reach me **mateusmarquezini01@gmail.com**
 
 - ⚡ Fun fact - **You may also find me volunteering for Spotify, helping users at https://community.spotify.com/**
