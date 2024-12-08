@@ -1,8 +1,8 @@
 # Hello, I'm Mateus 👋
 
-I'm a passionate software engineer with expertise in developing scalable and efficient software solutions. I transform complex problems into elegant code, bridging technology and innovation. 🚀
+I’m a software engineer who loves building scalable and efficient solutions. I enjoy turning complex problems into clean, functional code, combining technology and innovation seamlessly.
 
-In my spare time, I'm a dedicated learner exploring the fascinating world of LLMs.
+In my free time, I dive into the exciting world of LLMs, constantly learning and exploring new possibilities.
 
 ### 🎯 Professional Focus
 
